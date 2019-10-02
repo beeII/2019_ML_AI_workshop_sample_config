@@ -22,7 +22,7 @@ MODEL_NAME = "sample_model"
 #IMAGE_PATH = 'https://tensorflow.org/images/blogs/serving/cat.jpg'
 IMAGE_PATH = '/home/ec2-user/2019_mlai_workship_sample_data/images/test1.jpg'
 
-TEST_IMAGES_PATH='/home/ec2-user/2019_mlai_workship_sample_data/images/test1_output.jpg'
+TEST_IMAGES_PATH='/home/ec2-user/2019_mlai_workship_sample_data/images/test1_output.png'
 
 IMAGE_SIZE = (12, 8)
 # The server URL specifies the endpoint of your server running the ResNet
