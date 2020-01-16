@@ -1,4 +1,4 @@
-# 2019_ML_AI_workshop_sample_config
+# ML_AI_workshop_sample_config
 
 During the workshop, we will train an article detection from a 1910s newspaper page. 
 
